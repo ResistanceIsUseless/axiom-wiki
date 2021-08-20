@@ -1,3 +1,5 @@
+# 1. Installation
+
 To install axiom, all you have to do is ensure that you have all the right dependencies and then run the configuration script.
 
 ## Dependencies
